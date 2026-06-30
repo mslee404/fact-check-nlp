@@ -1,0 +1,792 @@
+{
+    "knowledge_base": [
+        {
+            "id": "doc_001",
+            "title": "Mitos kesehatan keliru yang masih dipercaya (bagian 1)",
+            "content": "Artikel dari Halodoc membahas tentang 'Mitos kesehatan keliru yang masih dipercaya (bagian 1)'. Klaim atau mitos yang beredar di masyarakat: susu wajib 3 gelas/hari, apel sehari jauhkan dokter. Info lebih lanjut bisa diakses di https://www.halodoc.com/artikel/mitos-kesehatan-yang-keliru-tetapi-dipercaya-bagian-1.",
+            "source": "Halodoc",
+            "url": "https://www.halodoc.com/artikel/mitos-kesehatan-yang-keliru-tetapi-dipercaya-bagian-1",
+            "label": "mitos",
+            "mitos_text": "susu wajib 3 gelas/hari, apel sehari jauhkan dokter",
+            "keywords": [
+                "mitos",
+                "kesehatan",
+                "keliru",
+                "yang",
+                "masih"
+            ]
+        },
+        {
+            "id": "doc_002",
+            "title": "Mitos kesehatan keliru yang masih dipercaya (bagian 2)",
+            "content": "Artikel dari Halodoc membahas tentang 'Mitos kesehatan keliru yang masih dipercaya (bagian 2)'. Klaim atau mitos yang beredar di masyarakat: aturan 5 detik makanan jatuh, berenang setelah makan bikin kram. Info lebih lanjut bisa diakses di https://www.halodoc.com/artikel/inilah-mitos-kesehatan-yang-keliru-tetapi-dipercaya-bagian-2-1.",
+            "source": "Halodoc",
+            "url": "https://www.halodoc.com/artikel/inilah-mitos-kesehatan-yang-keliru-tetapi-dipercaya-bagian-2-1",
+            "label": "mitos",
+            "mitos_text": "aturan 5 detik makanan jatuh, berenang setelah makan bikin kram",
+            "keywords": [
+                "mitos",
+                "kesehatan",
+                "keliru",
+                "yang",
+                "masih"
+            ]
+        },
+        {
+            "id": "doc_003",
+            "title": "7 Hoaks & Mitos Kesehatan yang Masih Sering Dipercaya",
+            "content": "Artikel dari Halodoc membahas tentang '7 Hoaks & Mitos Kesehatan yang Masih Sering Dipercaya'. Klaim atau mitos yang beredar di masyarakat: mi instan + cokelat = racun arsenik. Info lebih lanjut bisa diakses di https://www.halodoc.com/artikel/inilah-7-hoaks-dan-mitos-kesehatan-yang-masih-sering-dipercaya.",
+            "source": "Halodoc",
+            "url": "https://www.halodoc.com/artikel/inilah-7-hoaks-dan-mitos-kesehatan-yang-masih-sering-dipercaya",
+            "label": "mitos",
+            "mitos_text": "mi instan + cokelat = racun arsenik",
+            "keywords": [
+                "hoaks",
+                "mitos",
+                "kesehatan",
+                "yang",
+                "masih"
+            ]
+        },
+        {
+            "id": "doc_004",
+            "title": "Mitos dan Fakta Kesehatan (halaman indeks, banyak topik)",
+            "content": "Artikel dari Halodoc membahas tentang 'Mitos dan Fakta Kesehatan (halaman indeks, banyak topik)'. Klaim atau mitos yang beredar di masyarakat: Mitos dan Fakta Kesehatan (halaman indeks, banyak topik). Info lebih lanjut bisa diakses di https://www.halodoc.com/kesehatan/mitos-dan-fakta-kesehatan.",
+            "source": "Halodoc",
+            "url": "https://www.halodoc.com/kesehatan/mitos-dan-fakta-kesehatan",
+            "label": "mitos",
+            "mitos_text": "Mitos dan Fakta Kesehatan (halaman indeks, banyak topik)",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "kesehatan",
+                "(halaman",
+                "indeks"
+            ]
+        },
+        {
+            "id": "doc_005",
+            "title": "10 Mitos Diet yang Justru Berisiko Menaikkan Berat Badan",
+            "content": "Artikel dari Alodokter membahas tentang '10 Mitos Diet yang Justru Berisiko Menaikkan Berat Badan'. Klaim atau mitos yang beredar di masyarakat: minum banyak air bikin kurus, menahan lapar = diet efektif. Info lebih lanjut bisa diakses di https://www.alodokter.com/9-mitos-diet-yang-justru-berisiko-menaikkan-berat-badan.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/9-mitos-diet-yang-justru-berisiko-menaikkan-berat-badan",
+            "label": "mitos",
+            "mitos_text": "minum banyak air bikin kurus, menahan lapar = diet efektif",
+            "keywords": [
+                "mitos",
+                "diet",
+                "yang",
+                "justru",
+                "berisiko"
+            ]
+        },
+        {
+            "id": "doc_006",
+            "title": "Makan Nasi Putih Bikin Gemuk? Ini Faktanya!",
+            "content": "Artikel dari Hello Sehat membahas tentang 'Makan Nasi Putih Bikin Gemuk? Ini Faktanya!'. Klaim atau mitos yang beredar di masyarakat: nasi putih penyebab utama diabetes & obesitas. Info lebih lanjut bisa diakses di https://hellosehat.com/nutrisi/fakta-gizi/mitos-makan-nasi-putih/.",
+            "source": "Hello Sehat",
+            "url": "https://hellosehat.com/nutrisi/fakta-gizi/mitos-makan-nasi-putih/",
+            "label": "mitos",
+            "mitos_text": "nasi putih penyebab utama diabetes & obesitas",
+            "keywords": [
+                "makan",
+                "nasi",
+                "putih",
+                "bikin",
+                "gemuk"
+            ]
+        },
+        {
+            "id": "doc_007",
+            "title": "4 Mitos yang Salah Seputar Makan Telur",
+            "content": "Artikel dari Hello Sehat membahas tentang '4 Mitos yang Salah Seputar Makan Telur'. Klaim atau mitos yang beredar di masyarakat: telur tinggi kolesterol berbahaya untuk jantung. Info lebih lanjut bisa diakses di https://hellosehat.com/nutrisi/fakta-gizi/mitos-yang-salah-tentang-makan-telur/.",
+            "source": "Hello Sehat",
+            "url": "https://hellosehat.com/nutrisi/fakta-gizi/mitos-yang-salah-tentang-makan-telur/",
+            "label": "mitos",
+            "mitos_text": "telur tinggi kolesterol berbahaya untuk jantung",
+            "keywords": [
+                "mitos",
+                "yang",
+                "salah",
+                "seputar",
+                "makan"
+            ]
+        },
+        {
+            "id": "doc_008",
+            "title": "Banyak Makan Telur Dapat Menyebabkan Bisul, Mitos atau Fakta?",
+            "content": "Artikel dari Alodokter membahas tentang 'Banyak Makan Telur Dapat Menyebabkan Bisul, Mitos atau Fakta?'. Klaim atau mitos yang beredar di masyarakat: Banyak Makan Telur Dapat Menyebabkan Bisul, Mitos atau Fakta?. Info lebih lanjut bisa diakses di https://www.alodokter.com/banyak-makan-telur-dapat-menyebabkan-bisul-mitos-atau-fakta.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/banyak-makan-telur-dapat-menyebabkan-bisul-mitos-atau-fakta",
+            "label": "mitos",
+            "mitos_text": "Banyak Makan Telur Dapat Menyebabkan Bisul, Mitos atau Fakta?",
+            "keywords": [
+                "banyak",
+                "makan",
+                "telur",
+                "dapat",
+                "menyebabkan"
+            ]
+        },
+        {
+            "id": "doc_009",
+            "title": "6 Fakta Sebenarnya dari Mitos Buah Durian",
+            "content": "Artikel dari Hello Sehat membahas tentang '6 Fakta Sebenarnya dari Mitos Buah Durian'. Klaim atau mitos yang beredar di masyarakat: durian + susu = mati, durian tinggi kolesterol. Info lebih lanjut bisa diakses di https://hellosehat.com/nutrisi/fakta-gizi/fakta-kesehatan-buah-durian/.",
+            "source": "Hello Sehat",
+            "url": "https://hellosehat.com/nutrisi/fakta-gizi/fakta-kesehatan-buah-durian/",
+            "label": "mitos",
+            "mitos_text": "durian + susu = mati, durian tinggi kolesterol",
+            "keywords": [
+                "fakta",
+                "sebenarnya",
+                "dari",
+                "mitos",
+                "buah"
+            ]
+        },
+        {
+            "id": "doc_010",
+            "title": "6 Fakta Menarik Seputar Mi Instan",
+            "content": "Artikel dari Hello Sehat membahas tentang '6 Fakta Menarik Seputar Mi Instan'. Klaim atau mitos yang beredar di masyarakat: mi instan berlapis lilin, berbahaya dikonsumsi rutin. Info lebih lanjut bisa diakses di https://hellosehat.com/nutrisi/tips-makan-sehat/fakta-makan-mie-instan/.",
+            "source": "Hello Sehat",
+            "url": "https://hellosehat.com/nutrisi/tips-makan-sehat/fakta-makan-mie-instan/",
+            "label": "mitos",
+            "mitos_text": "mi instan berlapis lilin, berbahaya dikonsumsi rutin",
+            "keywords": [
+                "fakta",
+                "menarik",
+                "seputar",
+                "instan"
+            ]
+        },
+        {
+            "id": "doc_011",
+            "title": "9 Mitos tentang Kanker dan Fakta di Baliknya",
+            "content": "Artikel dari Alodokter membahas tentang '9 Mitos tentang Kanker dan Fakta di Baliknya'. Klaim atau mitos yang beredar di masyarakat: deodoran sebabkan kanker payudara, gula sebabkan kanker. Info lebih lanjut bisa diakses di https://www.alodokter.com/kesalahpahaman-umum-dan-mitos-tentang-kanker.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/kesalahpahaman-umum-dan-mitos-tentang-kanker",
+            "label": "mitos",
+            "mitos_text": "deodoran sebabkan kanker payudara, gula sebabkan kanker",
+            "keywords": [
+                "mitos",
+                "tentang",
+                "kanker",
+                "fakta",
+                "baliknya"
+            ]
+        },
+        {
+            "id": "doc_012",
+            "title": "10 Mitos Penyakit Jantung",
+            "content": "Artikel dari Kemenkes P2PTM membahas tentang '10 Mitos Penyakit Jantung'. Klaim atau mitos yang beredar di masyarakat: penyakit jantung hanya untuk orang tua, nyeri dada = serangan jantung. Info lebih lanjut bisa diakses di https://p2ptm.kemkes.go.id/artikel-sehat/10-mitos-penyakit-jantung.",
+            "source": "Kemenkes P2PTM",
+            "url": "https://p2ptm.kemkes.go.id/artikel-sehat/10-mitos-penyakit-jantung",
+            "label": "mitos",
+            "mitos_text": "penyakit jantung hanya untuk orang tua, nyeri dada = serangan jantung",
+            "keywords": [
+                "mitos",
+                "penyakit",
+                "jantung"
+            ]
+        },
+        {
+            "id": "doc_013",
+            "title": "Mitos & Fakta Diabetes Melitus",
+            "content": "Artikel dari Kemenkes P2PTM membahas tentang 'Mitos & Fakta Diabetes Melitus'. Klaim atau mitos yang beredar di masyarakat: penderita diabetes tidak boleh hamil, hanya orang gemuk yang bisa diabetes. Info lebih lanjut bisa diakses di https://p2ptm.kemkes.go.id/infographic-p2ptm/penyakit-diabetes-melitus/page/4/yuk-simak-mitos-dan-fakta-mengenai-diabetes-melitus-berikut-ini.",
+            "source": "Kemenkes P2PTM",
+            "url": "https://p2ptm.kemkes.go.id/infographic-p2ptm/penyakit-diabetes-melitus/page/4/yuk-simak-mitos-dan-fakta-mengenai-diabetes-melitus-berikut-ini",
+            "label": "mitos",
+            "mitos_text": "penderita diabetes tidak boleh hamil, hanya orang gemuk yang bisa diabetes",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "diabetes",
+                "melitus"
+            ]
+        },
+        {
+            "id": "doc_014",
+            "title": "Minuman Berenergi dan Kesehatan Jantung: Mitos dan Fakta",
+            "content": "Artikel dari Kemenkes Yankes membahas tentang 'Minuman Berenergi dan Kesehatan Jantung: Mitos dan Fakta'. Klaim atau mitos yang beredar di masyarakat: minuman energi aman dan meningkatkan kesehatan jantung. Info lebih lanjut bisa diakses di https://yankes.kemkes.go.id/view_artikel/3805/minuman-berenergi-dan-kesehatan-jantung-mitos-dan-fakta-yang-harus-diketahui.",
+            "source": "Kemenkes Yankes",
+            "url": "https://yankes.kemkes.go.id/view_artikel/3805/minuman-berenergi-dan-kesehatan-jantung-mitos-dan-fakta-yang-harus-diketahui",
+            "label": "mitos",
+            "mitos_text": "minuman energi aman dan meningkatkan kesehatan jantung",
+            "keywords": [
+                "minuman",
+                "berenergi",
+                "kesehatan",
+                "jantung:",
+                "mitos"
+            ]
+        },
+        {
+            "id": "doc_015",
+            "title": "9 Mitos Sistem Pencernaan yang Tak Perlu Dipercaya",
+            "content": "Artikel dari Hello Sehat membahas tentang '9 Mitos Sistem Pencernaan yang Tak Perlu Dipercaya'. Klaim atau mitos yang beredar di masyarakat: permen karet tertelan tinggal selamanya di perut. Info lebih lanjut bisa diakses di https://hellosehat.com/pencernaan/mitos-tentang-sistem-pencernaan/.",
+            "source": "Hello Sehat",
+            "url": "https://hellosehat.com/pencernaan/mitos-tentang-sistem-pencernaan/",
+            "label": "mitos",
+            "mitos_text": "permen karet tertelan tinggal selamanya di perut",
+            "keywords": [
+                "mitos",
+                "sistem",
+                "pencernaan",
+                "yang",
+                "perlu"
+            ]
+        },
+        {
+            "id": "doc_016",
+            "title": "6 Mitos TBC yang Tidak Perlu Dipercaya Lagi",
+            "content": "Artikel dari Hello Sehat membahas tentang '6 Mitos TBC yang Tidak Perlu Dipercaya Lagi'. Klaim atau mitos yang beredar di masyarakat: TBC penyakit keturunan, TBC sama dengan batuk biasa. Info lebih lanjut bisa diakses di https://hellosehat.com/pernapasan/tbc/mitos-tbc/.",
+            "source": "Hello Sehat",
+            "url": "https://hellosehat.com/pernapasan/tbc/mitos-tbc/",
+            "label": "mitos",
+            "mitos_text": "TBC penyakit keturunan, TBC sama dengan batuk biasa",
+            "keywords": [
+                "mitos",
+                "yang",
+                "tidak",
+                "perlu",
+                "dipercaya"
+            ]
+        },
+        {
+            "id": "doc_017",
+            "title": "8 Mitos Sakit Gigi dan Fakta di Baliknya",
+            "content": "Artikel dari Hello Sehat membahas tentang '8 Mitos Sakit Gigi dan Fakta di Baliknya'. Klaim atau mitos yang beredar di masyarakat: taruh aspirin di gigi sakit bisa meredakan nyeri. Info lebih lanjut bisa diakses di https://hellosehat.com/gigi-mulut/gigi/mitos-sakit-gigi/.",
+            "source": "Hello Sehat",
+            "url": "https://hellosehat.com/gigi-mulut/gigi/mitos-sakit-gigi/",
+            "label": "mitos",
+            "mitos_text": "taruh aspirin di gigi sakit bisa meredakan nyeri",
+            "keywords": [
+                "mitos",
+                "sakit",
+                "gigi",
+                "fakta",
+                "baliknya"
+            ]
+        },
+        {
+            "id": "doc_018",
+            "title": "Mitos dan Fakta Seputar Kesehatan Kulit",
+            "content": "Artikel dari Alodokter membahas tentang 'Mitos dan Fakta Seputar Kesehatan Kulit'. Klaim atau mitos yang beredar di masyarakat: SPF tinggi berarti perlindungan lebih lama, produk mahal lebih efektif. Info lebih lanjut bisa diakses di https://www.alodokter.com/memahami-mitos-tentang-kesehatan-kulit.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/memahami-mitos-tentang-kesehatan-kulit",
+            "label": "mitos",
+            "mitos_text": "SPF tinggi berarti perlindungan lebih lama, produk mahal lebih efektif",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "seputar",
+                "kesehatan",
+                "kulit"
+            ]
+        },
+        {
+            "id": "doc_019",
+            "title": "Syaraf Terjepit dan Mitos Fakta Pembedahan Tulang Belakang",
+            "content": "Artikel dari Kemenkes Yankes membahas tentang 'Syaraf Terjepit dan Mitos Fakta Pembedahan Tulang Belakang'. Klaim atau mitos yang beredar di masyarakat: semua saraf kejepit harus operasi. Info lebih lanjut bisa diakses di https://yankes.kemkes.go.id/read/83/talkshow-kesehatan-syaraf-terjepit-dan-mitos-fakta-pembedahan-tulang-belakang-di-radio-candi-sewu-klaten.",
+            "source": "Kemenkes Yankes",
+            "url": "https://yankes.kemkes.go.id/read/83/talkshow-kesehatan-syaraf-terjepit-dan-mitos-fakta-pembedahan-tulang-belakang-di-radio-candi-sewu-klaten",
+            "label": "mitos",
+            "mitos_text": "semua saraf kejepit harus operasi",
+            "keywords": [
+                "syaraf",
+                "terjepit",
+                "mitos",
+                "fakta",
+                "pembedahan"
+            ]
+        },
+        {
+            "id": "doc_020",
+            "title": "8 Mitos Minuman Beralkohol yang Ternyata Salah",
+            "content": "Artikel dari Hello Sehat membahas tentang '8 Mitos Minuman Beralkohol yang Ternyata Salah'. Klaim atau mitos yang beredar di masyarakat: alkohol dalam jumlah sedikit tidak berbahaya. Info lebih lanjut bisa diakses di https://hellosehat.com/nutrisi/fakta-gizi/mitos-tentang-minuman-beralkohol/.",
+            "source": "Hello Sehat",
+            "url": "https://hellosehat.com/nutrisi/fakta-gizi/mitos-tentang-minuman-beralkohol/",
+            "label": "mitos",
+            "mitos_text": "alkohol dalam jumlah sedikit tidak berbahaya",
+            "keywords": [
+                "mitos",
+                "minuman",
+                "beralkohol",
+                "yang",
+                "ternyata"
+            ]
+        },
+        {
+            "id": "doc_021",
+            "title": "Mitos dan Fakta Seputar Kehamilan",
+            "content": "Artikel dari Alodokter membahas tentang 'Mitos dan Fakta Seputar Kehamilan'. Klaim atau mitos yang beredar di masyarakat: bentuk perut menentukan jenis kelamin, gerhana bulan bikin bayi bibir sumbing. Info lebih lanjut bisa diakses di https://www.alodokter.com/menguak-mitos-vs-fakta-tentang-kehamilan.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/menguak-mitos-vs-fakta-tentang-kehamilan",
+            "label": "mitos",
+            "mitos_text": "bentuk perut menentukan jenis kelamin, gerhana bulan bikin bayi bibir sumbing",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "seputar",
+                "kehamilan"
+            ]
+        },
+        {
+            "id": "doc_022",
+            "title": "Fakta di Balik Mitos Ibu Hamil Muda",
+            "content": "Artikel dari Alodokter membahas tentang 'Fakta di Balik Mitos Ibu Hamil Muda'. Klaim atau mitos yang beredar di masyarakat: air kelapa bikin kulit bayi mulus, seks saat hamil berbahaya. Info lebih lanjut bisa diakses di https://www.alodokter.com/penting-diketahui-pantangan-ibu-hamil-muda-ini-hanya-mitos.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/penting-diketahui-pantangan-ibu-hamil-muda-ini-hanya-mitos",
+            "label": "mitos",
+            "mitos_text": "air kelapa bikin kulit bayi mulus, seks saat hamil berbahaya",
+            "keywords": [
+                "fakta",
+                "balik",
+                "mitos",
+                "hamil",
+                "muda"
+            ]
+        },
+        {
+            "id": "doc_023",
+            "title": "Mitos dan Fakta Seputar Jenis Kelamin Bayi dalam Kandungan",
+            "content": "Artikel dari Alodokter membahas tentang 'Mitos dan Fakta Seputar Jenis Kelamin Bayi dalam Kandungan'. Klaim atau mitos yang beredar di masyarakat: detak jantung < 140 bpm = bayi laki-laki. Info lebih lanjut bisa diakses di https://www.alodokter.com/mitos-dan-fakta-seputar-jenis-kelamin-bayi-dalam-kandungan.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/mitos-dan-fakta-seputar-jenis-kelamin-bayi-dalam-kandungan",
+            "label": "mitos",
+            "mitos_text": "detak jantung < 140 bpm = bayi laki-laki",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "seputar",
+                "jenis",
+                "kelamin"
+            ]
+        },
+        {
+            "id": "doc_024",
+            "title": "6 Mitos Ciri Hamil Anak Laki-Laki dan Faktanya",
+            "content": "Artikel dari Alodokter membahas tentang '6 Mitos Ciri Hamil Anak Laki-Laki dan Faktanya'. Klaim atau mitos yang beredar di masyarakat: ngidam makanan asin = tanda hamil anak laki-laki. Info lebih lanjut bisa diakses di https://www.alodokter.com/sesuai-dugaan-ciri-ciri-hamil-anak-laki-laki-cuma-mitos.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/sesuai-dugaan-ciri-ciri-hamil-anak-laki-laki-cuma-mitos",
+            "label": "mitos",
+            "mitos_text": "ngidam makanan asin = tanda hamil anak laki-laki",
+            "keywords": [
+                "mitos",
+                "ciri",
+                "hamil",
+                "anak",
+                "laki-laki"
+            ]
+        },
+        {
+            "id": "doc_025",
+            "title": "7 Ciri Hamil Anak Perempuan yang Dipercaya Banyak Orang (debunk)",
+            "content": "Artikel dari Hello Sehat membahas tentang '7 Ciri Hamil Anak Perempuan yang Dipercaya Banyak Orang (debunk)'. Klaim atau mitos yang beredar di masyarakat: perut bulat = hamil perempuan. Info lebih lanjut bisa diakses di https://hellosehat.com/kehamilan/kandungan/trimester-2/mitos-hamil-anak-perempuan/.",
+            "source": "Hello Sehat",
+            "url": "https://hellosehat.com/kehamilan/kandungan/trimester-2/mitos-hamil-anak-perempuan/",
+            "label": "mitos",
+            "mitos_text": "perut bulat = hamil perempuan",
+            "keywords": [
+                "ciri",
+                "hamil",
+                "anak",
+                "perempuan",
+                "yang"
+            ]
+        },
+        {
+            "id": "doc_026",
+            "title": "Mitos dan Fakta Menyusui Saat Hamil",
+            "content": "Artikel dari Alodokter membahas tentang 'Mitos dan Fakta Menyusui Saat Hamil'. Klaim atau mitos yang beredar di masyarakat: menyusui saat hamil berbahaya untuk janin. Info lebih lanjut bisa diakses di https://www.alodokter.com/mitos-dan-fakta-menyusui-saat-hamil.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/mitos-dan-fakta-menyusui-saat-hamil",
+            "label": "mitos",
+            "mitos_text": "menyusui saat hamil berbahaya untuk janin",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "menyusui",
+                "saat",
+                "hamil"
+            ]
+        },
+        {
+            "id": "doc_027",
+            "title": "Mitos dan Fakta Seputar Haid yang Wajib Wanita Ketahui",
+            "content": "Artikel dari Alodokter membahas tentang 'Mitos dan Fakta Seputar Haid yang Wajib Wanita Ketahui'. Klaim atau mitos yang beredar di masyarakat: keramas saat haid bahaya, mentimun hambat darah haid. Info lebih lanjut bisa diakses di https://www.alodokter.com/mitos-dan-fakta-seputar-haid-yang-wajib-wanita-ketahui.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/mitos-dan-fakta-seputar-haid-yang-wajib-wanita-ketahui",
+            "label": "mitos",
+            "mitos_text": "keramas saat haid bahaya, mentimun hambat darah haid",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "seputar",
+                "haid",
+                "yang"
+            ]
+        },
+        {
+            "id": "doc_028",
+            "title": "Mitos dan Fakta Seputar Kesehatan Pencernaan Si Kecil",
+            "content": "Artikel dari Alodokter membahas tentang 'Mitos dan Fakta Seputar Kesehatan Pencernaan Si Kecil'. Klaim atau mitos yang beredar di masyarakat: kopi bisa atasi sembelit pada anak. Info lebih lanjut bisa diakses di https://www.alodokter.com/mitos-dan-fakta-seputar-kesehatan-pencernaan-si-kecil.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/mitos-dan-fakta-seputar-kesehatan-pencernaan-si-kecil",
+            "label": "mitos",
+            "mitos_text": "kopi bisa atasi sembelit pada anak",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "seputar",
+                "kesehatan",
+                "pencernaan"
+            ]
+        },
+        {
+            "id": "doc_029",
+            "title": "Ini Mitos dan Fakta Seputar Pertumbuhan Anak",
+            "content": "Artikel dari Alodokter membahas tentang 'Ini Mitos dan Fakta Seputar Pertumbuhan Anak'. Klaim atau mitos yang beredar di masyarakat: nonton TV dekat bikin mata rusak, baby walker bantu bayi berjalan. Info lebih lanjut bisa diakses di https://www.alodokter.com/pertumbuhan-anak-ini-mitos-dan-faktanya.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/pertumbuhan-anak-ini-mitos-dan-faktanya",
+            "label": "mitos",
+            "mitos_text": "nonton TV dekat bikin mata rusak, baby walker bantu bayi berjalan",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "seputar",
+                "pertumbuhan",
+                "anak"
+            ]
+        },
+        {
+            "id": "doc_030",
+            "title": "Mitos dan Fakta Seputar Golongan Darah B+",
+            "content": "Artikel dari Alodokter membahas tentang 'Mitos dan Fakta Seputar Golongan Darah B+'. Klaim atau mitos yang beredar di masyarakat: golongan darah B+ lebih kebal penyakit. Info lebih lanjut bisa diakses di https://www.alodokter.com/golongan-darah-b-ini-fakta-dan-mitos-yang-perlu-diketahui.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/golongan-darah-b-ini-fakta-dan-mitos-yang-perlu-diketahui",
+            "label": "mitos",
+            "mitos_text": "golongan darah B+ lebih kebal penyakit",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "seputar",
+                "golongan",
+                "darah"
+            ]
+        },
+        {
+            "id": "doc_031",
+            "title": "Mitos & Fakta Imunisasi",
+            "content": "Artikel dari Kemenkes Yankes membahas tentang 'Mitos & Fakta Imunisasi'. Klaim atau mitos yang beredar di masyarakat: vaksin DTP+Polio sebabkan SIDS, vaksin bisa membunuh. Info lebih lanjut bisa diakses di https://yankes.kemkes.go.id/view_artikel/1664/mitos-fakta-imunisasi.",
+            "source": "Kemenkes Yankes",
+            "url": "https://yankes.kemkes.go.id/view_artikel/1664/mitos-fakta-imunisasi",
+            "label": "mitos",
+            "mitos_text": "vaksin DTP+Polio sebabkan SIDS, vaksin bisa membunuh",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "imunisasi"
+            ]
+        },
+        {
+            "id": "doc_032",
+            "title": "Mitos dan Fakta Seputar Vaksin",
+            "content": "Artikel dari Kemenkes Promkes membahas tentang 'Mitos dan Fakta Seputar Vaksin'. Klaim atau mitos yang beredar di masyarakat: vaksin MMR sebabkan autisme. Info lebih lanjut bisa diakses di https://promkes.kemkes.go.id/?p=3340.",
+            "source": "Kemenkes Promkes",
+            "url": "https://promkes.kemkes.go.id/?p=3340",
+            "label": "mitos",
+            "mitos_text": "vaksin MMR sebabkan autisme",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "seputar",
+                "vaksin"
+            ]
+        },
+        {
+            "id": "doc_033",
+            "title": "Jangan Termakan Isu, Ini Fakta Penting Vaksin COVID-19",
+            "content": "Artikel dari Alodokter membahas tentang 'Jangan Termakan Isu, Ini Fakta Penting Vaksin COVID-19'. Klaim atau mitos yang beredar di masyarakat: vaksin COVID-19 mengandung bahan haram, vaksin untuk uji klinis rakyat. Info lebih lanjut bisa diakses di https://www.alodokter.com/jangan-termakan-isu-ini-fakta-penting-vaksin-covid-19.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/jangan-termakan-isu-ini-fakta-penting-vaksin-covid-19",
+            "label": "mitos",
+            "mitos_text": "vaksin COVID-19 mengandung bahan haram, vaksin untuk uji klinis rakyat",
+            "keywords": [
+                "jangan",
+                "termakan",
+                "isu",
+                "fakta",
+                "penting"
+            ]
+        },
+        {
+            "id": "doc_034",
+            "title": "Ini Fakta Keamanan Vaksin AstraZeneca untuk COVID-19",
+            "content": "Artikel dari Alodokter membahas tentang 'Ini Fakta Keamanan Vaksin AstraZeneca untuk COVID-19'. Klaim atau mitos yang beredar di masyarakat: AstraZeneca pasti menyebabkan pembekuan darah berbahaya. Info lebih lanjut bisa diakses di https://www.alodokter.com/ini-fakta-keamanan-vaksin-astrazeneca-untuk-covid-19.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/ini-fakta-keamanan-vaksin-astrazeneca-untuk-covid-19",
+            "label": "mitos",
+            "mitos_text": "AstraZeneca pasti menyebabkan pembekuan darah berbahaya",
+            "keywords": [
+                "fakta",
+                "keamanan",
+                "vaksin",
+                "astrazeneca",
+                "untuk"
+            ]
+        },
+        {
+            "id": "doc_035",
+            "title": "Fakta Keamanan Vaksin COVID-19 untuk Penderita Komorbid",
+            "content": "Artikel dari Alodokter membahas tentang 'Fakta Keamanan Vaksin COVID-19 untuk Penderita Komorbid'. Klaim atau mitos yang beredar di masyarakat: penderita diabetes/hipertensi tidak boleh vaksin. Info lebih lanjut bisa diakses di https://www.alodokter.com/fakta-keamanan-vaksin-covid-19-untuk-penderita-penyakit-komorbid.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/fakta-keamanan-vaksin-covid-19-untuk-penderita-penyakit-komorbid",
+            "label": "mitos",
+            "mitos_text": "penderita diabetes/hipertensi tidak boleh vaksin",
+            "keywords": [
+                "fakta",
+                "keamanan",
+                "vaksin",
+                "covid-19",
+                "untuk"
+            ]
+        },
+        {
+            "id": "doc_036",
+            "title": "Cara Mengonsumsi Obat Herbal dengan Aman",
+            "content": "Artikel dari Alodokter membahas tentang 'Cara Mengonsumsi Obat Herbal dengan Aman'. Klaim atau mitos yang beredar di masyarakat: obat herbal pasti aman karena alami. Info lebih lanjut bisa diakses di https://www.alodokter.com/panduan-mengonsumsi-obat-herbal.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/panduan-mengonsumsi-obat-herbal",
+            "label": "mitos",
+            "mitos_text": "obat herbal pasti aman karena alami",
+            "keywords": [
+                "cara",
+                "mengonsumsi",
+                "obat",
+                "herbal",
+                "dengan"
+            ]
+        },
+        {
+            "id": "doc_037",
+            "title": "8 Jenis Pengobatan Alternatif yang Umum di Indonesia dan Faktanya",
+            "content": "Artikel dari Alodokter membahas tentang '8 Jenis Pengobatan Alternatif yang Umum di Indonesia dan Faktanya'. Klaim atau mitos yang beredar di masyarakat: 8 Jenis Pengobatan Alternatif yang Umum di Indonesia dan Faktanya. Info lebih lanjut bisa diakses di https://www.alodokter.com/8-jenis-pengobatan-alternatif-yang-umum-di-indonesia-dan-faktanya.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/8-jenis-pengobatan-alternatif-yang-umum-di-indonesia-dan-faktanya",
+            "label": "mitos",
+            "mitos_text": "8 Jenis Pengobatan Alternatif yang Umum di Indonesia dan Faktanya",
+            "keywords": [
+                "jenis",
+                "pengobatan",
+                "alternatif",
+                "yang",
+                "umum"
+            ]
+        },
+        {
+            "id": "doc_038",
+            "title": "45% Masyarakat Indonesia Masih Lebih Percaya Obat Herbal Dibanding Obat Modern",
+            "content": "Artikel dari Alodokter membahas tentang '45% Masyarakat Indonesia Masih Lebih Percaya Obat Herbal Dibanding Obat Modern'. Klaim atau mitos yang beredar di masyarakat: fakta vs mitos obat herbal vs medis. Info lebih lanjut bisa diakses di https://www.alodokter.com/45-masyarakat-indonesia-masih-lebih-percaya-obat-herbal-dibanding-obat-modern.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/45-masyarakat-indonesia-masih-lebih-percaya-obat-herbal-dibanding-obat-modern",
+            "label": "mitos",
+            "mitos_text": "fakta vs mitos obat herbal vs medis",
+            "keywords": [
+                "masyarakat",
+                "indonesia",
+                "masih",
+                "lebih",
+                "percaya"
+            ]
+        },
+        {
+            "id": "doc_039",
+            "title": "Obat Herbal: Panduan Memilih, Kegunaan, dan Efek Samping",
+            "content": "Artikel dari Hello Sehat membahas tentang 'Obat Herbal: Panduan Memilih, Kegunaan, dan Efek Samping'. Klaim atau mitos yang beredar di masyarakat: semua tanaman obat tidak punya efek samping. Info lebih lanjut bisa diakses di https://hellosehat.com/herbal-alternatif/herbal/obat-herbal/.",
+            "source": "Hello Sehat",
+            "url": "https://hellosehat.com/herbal-alternatif/herbal/obat-herbal/",
+            "label": "mitos",
+            "mitos_text": "semua tanaman obat tidak punya efek samping",
+            "keywords": [
+                "obat",
+                "herbal:",
+                "panduan",
+                "memilih",
+                "kegunaan"
+            ]
+        },
+        {
+            "id": "doc_040",
+            "title": "Mitos dan Fakta Diet Vegetarian",
+            "content": "Artikel dari Kemenkes Yankes membahas tentang 'Mitos dan Fakta Diet Vegetarian'. Klaim atau mitos yang beredar di masyarakat: vegetarian pasti kekurangan protein dan zat besi. Info lebih lanjut bisa diakses di https://yankes.kemkes.go.id/view_artikel/3583/mitos-dan-fakta-diet-vegetarian.",
+            "source": "Kemenkes Yankes",
+            "url": "https://yankes.kemkes.go.id/view_artikel/3583/mitos-dan-fakta-diet-vegetarian",
+            "label": "mitos",
+            "mitos_text": "vegetarian pasti kekurangan protein dan zat besi",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "diet",
+                "vegetarian"
+            ]
+        },
+        {
+            "id": "doc_041",
+            "title": "Inilah Mitos Seputar Kesehatan Mental yang Perlu Diketahui",
+            "content": "Artikel dari Halodoc membahas tentang 'Inilah Mitos Seputar Kesehatan Mental yang Perlu Diketahui'. Klaim atau mitos yang beredar di masyarakat: gangguan mental = langka, penderita gangguan mental pasti berbahaya. Info lebih lanjut bisa diakses di https://www.halodoc.com/artikel/inilah-mitos-seputar-kesehatan-mental-yang-perlu-diketahui.",
+            "source": "Halodoc",
+            "url": "https://www.halodoc.com/artikel/inilah-mitos-seputar-kesehatan-mental-yang-perlu-diketahui",
+            "label": "mitos",
+            "mitos_text": "gangguan mental = langka, penderita gangguan mental pasti berbahaya",
+            "keywords": [
+                "inilah",
+                "mitos",
+                "seputar",
+                "kesehatan",
+                "mental"
+            ]
+        },
+        {
+            "id": "doc_042",
+            "title": "Mengungkap Fakta di Balik Mitos Terbangun Tengah Malam",
+            "content": "Artikel dari Hello Sehat membahas tentang 'Mengungkap Fakta di Balik Mitos Terbangun Tengah Malam'. Klaim atau mitos yang beredar di masyarakat: terbangun tengah malam = gangguan makhluk astral. Info lebih lanjut bisa diakses di https://hellosehat.com/pola-tidur/gangguan-tidur/mitos-terbangun-di-malam-hari/.",
+            "source": "Hello Sehat",
+            "url": "https://hellosehat.com/pola-tidur/gangguan-tidur/mitos-terbangun-di-malam-hari/",
+            "label": "mitos",
+            "mitos_text": "terbangun tengah malam = gangguan makhluk astral",
+            "keywords": [
+                "mengungkap",
+                "fakta",
+                "balik",
+                "mitos",
+                "terbangun"
+            ]
+        },
+        {
+            "id": "doc_043",
+            "title": "Tidur Siang Bisa Bikin Badan Gemuk, Mitos atau Fakta?",
+            "content": "Artikel dari Hello Sehat membahas tentang 'Tidur Siang Bisa Bikin Badan Gemuk, Mitos atau Fakta?'. Klaim atau mitos yang beredar di masyarakat: Tidur Siang Bisa Bikin Badan Gemuk, Mitos atau Fakta?. Info lebih lanjut bisa diakses di https://hellosehat.com/nutrisi/berat-badan-turun/benarkah-tidur-siang-bikin-gemuk/.",
+            "source": "Hello Sehat",
+            "url": "https://hellosehat.com/nutrisi/berat-badan-turun/benarkah-tidur-siang-bikin-gemuk/",
+            "label": "mitos",
+            "mitos_text": "Tidur Siang Bisa Bikin Badan Gemuk, Mitos atau Fakta?",
+            "keywords": [
+                "tidur",
+                "siang",
+                "bisa",
+                "bikin",
+                "badan"
+            ]
+        },
+        {
+            "id": "doc_044",
+            "title": "Kurang Tidur Bisa Menyebabkan Tekanan Darah Tinggi, Mitos atau Fakta?",
+            "content": "Artikel dari Hello Sehat membahas tentang 'Kurang Tidur Bisa Menyebabkan Tekanan Darah Tinggi, Mitos atau Fakta?'. Klaim atau mitos yang beredar di masyarakat: Kurang Tidur Bisa Menyebabkan Tekanan Darah Tinggi, Mitos atau Fakta?. Info lebih lanjut bisa diakses di https://hellosehat.com/jantung/hipertensi/kurang-tidur-menyebabkan-hipertensi/.",
+            "source": "Hello Sehat",
+            "url": "https://hellosehat.com/jantung/hipertensi/kurang-tidur-menyebabkan-hipertensi/",
+            "label": "mitos",
+            "mitos_text": "Kurang Tidur Bisa Menyebabkan Tekanan Darah Tinggi, Mitos atau Fakta?",
+            "keywords": [
+                "kurang",
+                "tidur",
+                "bisa",
+                "menyebabkan",
+                "tekanan"
+            ]
+        },
+        {
+            "id": "doc_045",
+            "title": "Mitos dan Fakta Seputar Susu",
+            "content": "Artikel dari Kemenkes Yankes membahas tentang 'Mitos dan Fakta Seputar Susu'. Klaim atau mitos yang beredar di masyarakat: minum susu malam hari pasti menambah tinggi badan. Info lebih lanjut bisa diakses di https://yankes.kemkes.go.id/view_artikel/1438/mitos-dan-fakta-seputar-susu.",
+            "source": "Kemenkes Yankes",
+            "url": "https://yankes.kemkes.go.id/view_artikel/1438/mitos-dan-fakta-seputar-susu",
+            "label": "mitos",
+            "mitos_text": "minum susu malam hari pasti menambah tinggi badan",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "seputar",
+                "susu"
+            ]
+        },
+        {
+            "id": "doc_046",
+            "title": "9 Fakta dan Mitos Olahraga Lari",
+            "content": "Artikel dari Hello Sehat membahas tentang '9 Fakta dan Mitos Olahraga Lari'. Klaim atau mitos yang beredar di masyarakat: lari merusak lutut, lari setiap hari buat berat badan turun drastis. Info lebih lanjut bisa diakses di https://hellosehat.com/kebugaran/kardio/fakta-mitos-olahraga-lari/.",
+            "source": "Hello Sehat",
+            "url": "https://hellosehat.com/kebugaran/kardio/fakta-mitos-olahraga-lari/",
+            "label": "mitos",
+            "mitos_text": "lari merusak lutut, lari setiap hari buat berat badan turun drastis",
+            "keywords": [
+                "fakta",
+                "mitos",
+                "olahraga",
+                "lari"
+            ]
+        },
+        {
+            "id": "doc_047",
+            "title": "Ketahui Mitos Kesehatan yang Masih Dipercaya",
+            "content": "Artikel dari Halodoc membahas tentang 'Ketahui Mitos Kesehatan yang Masih Dipercaya'. Klaim atau mitos yang beredar di masyarakat: deodoran sebabkan kanker, air dingin setelah makan membekukan lemak. Info lebih lanjut bisa diakses di https://www.halodoc.com/artikel/ketahui-mitos-kesehatan-yang-masih-dipercaya.",
+            "source": "Halodoc",
+            "url": "https://www.halodoc.com/artikel/ketahui-mitos-kesehatan-yang-masih-dipercaya",
+            "label": "mitos",
+            "mitos_text": "deodoran sebabkan kanker, air dingin setelah makan membekukan lemak",
+            "keywords": [
+                "ketahui",
+                "mitos",
+                "kesehatan",
+                "yang",
+                "masih"
+            ]
+        },
+        {
+            "id": "doc_048",
+            "title": "Mitos-Fakta COVID-19 (E-Book Alodokter)",
+            "content": "Artikel dari Alodokter membahas tentang 'Mitos-Fakta COVID-19 (E-Book Alodokter)'. Klaim atau mitos yang beredar di masyarakat: mitos seputar penularan, pencegahan, dan masker COVID-19. Info lebih lanjut bisa diakses di https://corona.alodokter.com/e-book-covid-19/mitos-fakta.",
+            "source": "Alodokter",
+            "url": "https://corona.alodokter.com/e-book-covid-19/mitos-fakta",
+            "label": "mitos",
+            "mitos_text": "mitos seputar penularan, pencegahan, dan masker COVID-19",
+            "keywords": [
+                "mitos-fakta",
+                "covid-19",
+                "(e-book",
+                "alodokter)"
+            ]
+        },
+        {
+            "id": "doc_049",
+            "title": "Mitos dan Fakta Seputar Jamu Tradisional",
+            "content": "Artikel dari Alodokter membahas tentang 'Mitos dan Fakta Seputar Jamu Tradisional'. Klaim atau mitos yang beredar di masyarakat: khasiat dan batasan bukti ilmiah jamu Indonesia. Info lebih lanjut bisa diakses di https://www.alodokter.com/7-jamu-siap-minum-untuk-kesehatan.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/7-jamu-siap-minum-untuk-kesehatan",
+            "label": "mitos",
+            "mitos_text": "khasiat dan batasan bukti ilmiah jamu Indonesia",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "seputar",
+                "jamu",
+                "tradisional"
+            ]
+        },
+        {
+            "id": "doc_050",
+            "title": "Mitos dan Fakta Kesehatan Kulit (7 Mitos)",
+            "content": "Artikel dari Alodokter membahas tentang 'Mitos dan Fakta Kesehatan Kulit (7 Mitos)'. Klaim atau mitos yang beredar di masyarakat: makin sering facial makin sehat, produk mahal pasti lebih bagus. Info lebih lanjut bisa diakses di https://www.alodokter.com/memahami-mitos-tentang-kesehatan-kulit.",
+            "source": "Alodokter",
+            "url": "https://www.alodokter.com/memahami-mitos-tentang-kesehatan-kulit",
+            "label": "mitos",
+            "mitos_text": "makin sering facial makin sehat, produk mahal pasti lebih bagus",
+            "keywords": [
+                "mitos",
+                "fakta",
+                "kesehatan",
+                "kulit",
+                "mitos)"
+            ]
+        }
+    ]
+}
