@@ -13,13 +13,13 @@
 | 1 | Mitos kesehatan keliru yang masih dipercaya (bagian 1) — termasuk: susu wajib 3 gelas/hari, apel sehari jauhkan dokter | Halodoc | https://www.halodoc.com/artikel/mitos-kesehatan-yang-keliru-tetapi-dipercaya-bagian-1 |
 | 2 | Mitos kesehatan keliru yang masih dipercaya (bagian 2) — termasuk: aturan 5 detik makanan jatuh, berenang setelah makan bikin kram | Halodoc | https://www.halodoc.com/artikel/inilah-mitos-kesehatan-yang-keliru-tetapi-dipercaya-bagian-2-1 |
 | 3 | 7 Hoaks & Mitos Kesehatan yang Masih Sering Dipercaya — termasuk: mi instan + cokelat = racun arsenik | Halodoc | https://www.halodoc.com/artikel/inilah-7-hoaks-dan-mitos-kesehatan-yang-masih-sering-dipercaya |
-| 4 | Mitos dan Fakta Kesehatan (halaman indeks, banyak topik) | Halodoc | https://www.halodoc.com/kesehatan/mitos-dan-fakta-kesehatan |
-| 5 | 10 Mitos Diet yang Justru Berisiko Menaikkan Berat Badan — termasuk: minum banyak air bikin kurus, menahan lapar = diet efektif | Alodokter | https://www.alodokter.com/9-mitos-diet-yang-justru-berisiko-menaikkan-berat-badan |
-| 6 | Makan Nasi Putih Bikin Gemuk? Ini Faktanya! — mitos: nasi putih penyebab utama diabetes & obesitas | Hello Sehat | https://hellosehat.com/nutrisi/fakta-gizi/mitos-makan-nasi-putih/ |
-| 7 | 4 Mitos yang Salah Seputar Makan Telur — mitos: telur tinggi kolesterol berbahaya untuk jantung | Hello Sehat | https://hellosehat.com/nutrisi/fakta-gizi/mitos-yang-salah-tentang-makan-telur/ |
-| 8 | Banyak Makan Telur Dapat Menyebabkan Bisul, Mitos atau Fakta? | Alodokter | https://www.alodokter.com/banyak-makan-telur-dapat-menyebabkan-bisul-mitos-atau-fakta |
-| 9 | 6 Fakta Sebenarnya dari Mitos Buah Durian — mitos: durian + susu = mati, durian tinggi kolesterol | Hello Sehat | https://hellosehat.com/nutrisi/fakta-gizi/fakta-kesehatan-buah-durian/ |
-| 10 | 6 Fakta Menarik Seputar Mi Instan — mitos: mi instan berlapis lilin, berbahaya dikonsumsi rutin | Hello Sehat | https://hellosehat.com/nutrisi/tips-makan-sehat/fakta-makan-mie-instan/ |
+| 4 | Mitos dan Fakta Kesehatan (halaman indeks, banyak topik) | Halodoc | https://www.halodoc.com/kesehatan/mitos-dan-fakta-kesehatan | udah
+| 5 | 10 Mitos Diet yang Justru Berisiko Menaikkan Berat Badan — termasuk: minum banyak air bikin kurus, menahan lapar = diet efektif | Alodokter | https://www.alodokter.com/9-mitos-diet-yang-justru-berisiko-menaikkan-berat-badan | udah
+| 6 | Makan Nasi Putih Bikin Gemuk? Ini Faktanya! — mitos: nasi putih penyebab utama diabetes & obesitas | Hello Sehat | https://hellosehat.com/nutrisi/fakta-gizi/mitos-makan-nasi-putih/ | udah
+| 7 | 4 Mitos yang Salah Seputar Makan Telur — mitos: telur tinggi kolesterol berbahaya untuk jantung | Hello Sehat | https://hellosehat.com/nutrisi/fakta-gizi/mitos-yang-salah-tentang-makan-telur/ | udah
+| 8 | Banyak Makan Telur Dapat Menyebabkan Bisul, Mitos atau Fakta? | Alodokter | https://www.alodokter.com/banyak-makan-telur-dapat-menyebabkan-bisul-mitos-atau-fakta | udah
+| 9 | 6 Fakta Sebenarnya dari Mitos Buah Durian — mitos: durian + susu = mati, durian tinggi kolesterol | Hello Sehat | https://hellosehat.com/nutrisi/fakta-gizi/fakta-kesehatan-buah-durian/ | udah
+| 10 | 6 Fakta Menarik Seputar Mi Instan — mitos: mi instan berlapis lilin, berbahaya dikonsumsi rutin | Hello Sehat | https://hellosehat.com/nutrisi/tips-makan-sehat/fakta-makan-mie-instan/ | udah
 
 ---
 
@@ -27,16 +27,16 @@
 
 | # | Judul / Topik Mitos | Sumber | URL |
 |---|---|---|---|
-| 11 | 9 Mitos tentang Kanker dan Fakta di Baliknya — mitos: deodoran sebabkan kanker payudara, gula sebabkan kanker | Alodokter | https://www.alodokter.com/kesalahpahaman-umum-dan-mitos-tentang-kanker |
-| 12 | 10 Mitos Penyakit Jantung — mitos: penyakit jantung hanya untuk orang tua, nyeri dada = serangan jantung | Kemenkes P2PTM | https://p2ptm.kemkes.go.id/artikel-sehat/10-mitos-penyakit-jantung |
-| 13 | Mitos & Fakta Diabetes Melitus — mitos: penderita diabetes tidak boleh hamil, hanya orang gemuk yang bisa diabetes | Kemenkes P2PTM | https://p2ptm.kemkes.go.id/infographic-p2ptm/penyakit-diabetes-melitus/page/4/yuk-simak-mitos-dan-fakta-mengenai-diabetes-melitus-berikut-ini |
-| 14 | Minuman Berenergi dan Kesehatan Jantung: Mitos dan Fakta — mitos: minuman energi aman dan meningkatkan kesehatan jantung | Kemenkes Yankes | https://yankes.kemkes.go.id/view_artikel/3805/minuman-berenergi-dan-kesehatan-jantung-mitos-dan-fakta-yang-harus-diketahui |
-| 15 | 9 Mitos Sistem Pencernaan yang Tak Perlu Dipercaya — mitos: permen karet tertelan tinggal selamanya di perut | Hello Sehat | https://hellosehat.com/pencernaan/mitos-tentang-sistem-pencernaan/ |
-| 16 | 6 Mitos TBC yang Tidak Perlu Dipercaya Lagi — mitos: TBC penyakit keturunan, TBC sama dengan batuk biasa | Hello Sehat | https://hellosehat.com/pernapasan/tbc/mitos-tbc/ |
-| 17 | 8 Mitos Sakit Gigi dan Fakta di Baliknya — mitos: taruh aspirin di gigi sakit bisa meredakan nyeri | Hello Sehat | https://hellosehat.com/gigi-mulut/gigi/mitos-sakit-gigi/ |
-| 18 | Mitos dan Fakta Seputar Kesehatan Kulit — mitos: SPF tinggi berarti perlindungan lebih lama, produk mahal lebih efektif | Alodokter | https://www.alodokter.com/memahami-mitos-tentang-kesehatan-kulit |
-| 19 | Syaraf Terjepit dan Mitos Fakta Pembedahan Tulang Belakang — mitos: semua saraf kejepit harus operasi | Kemenkes Yankes | https://yankes.kemkes.go.id/read/83/talkshow-kesehatan-syaraf-terjepit-dan-mitos-fakta-pembedahan-tulang-belakang-di-radio-candi-sewu-klaten |
-| 20 | 8 Mitos Minuman Beralkohol yang Ternyata Salah — mitos: alkohol dalam jumlah sedikit tidak berbahaya | Hello Sehat | https://hellosehat.com/nutrisi/fakta-gizi/mitos-tentang-minuman-beralkohol/ |
+| 11 | 9 Mitos tentang Kanker dan Fakta di Baliknya — mitos: deodoran sebabkan kanker payudara, gula sebabkan kanker | Alodokter | https://www.alodokter.com/kesalahpahaman-umum-dan-mitos-tentang-kanker | udah
+| 12 | 10 Mitos Penyakit Jantung — mitos: penyakit jantung hanya untuk orang tua, nyeri dada = serangan jantung | Kemenkes P2PTM | https://p2ptm.kemkes.go.id/artikel-sehat/10-mitos-penyakit-jantung | gabisa dibuka
+| 13 | Mitos & Fakta Diabetes Melitus — mitos: penderita diabetes tidak boleh hamil, hanya orang gemuk yang bisa diabetes | Kemenkes P2PTM | https://p2ptm.kemkes.go.id/infographic-p2ptm/penyakit-diabetes-melitus/page/4/yuk-simak-mitos-dan-fakta-mengenai-diabetes-melitus-berikut-ini | gabisa dibuka
+| 14 | Minuman Berenergi dan Kesehatan Jantung: Mitos dan Fakta — mitos: minuman energi aman dan meningkatkan kesehatan jantung | Kemenkes Yankes | https://yankes.kemkes.go.id/view_artikel/3805/minuman-berenergi-dan-kesehatan-jantung-mitos-dan-fakta-yang-harus-diketahui | gabisa dibuka
+| 15 | 9 Mitos Sistem Pencernaan yang Tak Perlu Dipercaya — mitos: permen karet tertelan tinggal selamanya di perut | Hello Sehat | https://hellosehat.com/pencernaan/mitos-tentang-sistem-pencernaan/ | udah
+| 16 | 6 Mitos TBC yang Tidak Perlu Dipercaya Lagi — mitos: TBC penyakit keturunan, TBC sama dengan batuk biasa | Hello Sehat | https://hellosehat.com/pernapasan/tbc/mitos-tbc/ | udah
+| 17 | 8 Mitos Sakit Gigi dan Fakta di Baliknya — mitos: taruh aspirin di gigi sakit bisa meredakan nyeri | Hello Sehat | https://hellosehat.com/gigi-mulut/gigi/mitos-sakit-gigi/ | udah 
+| 18 | Mitos dan Fakta Seputar Kesehatan Kulit — mitos: SPF tinggi berarti perlindungan lebih lama, produk mahal lebih efektif | Alodokter | https://www.alodokter.com/memahami-mitos-tentang-kesehatan-kulit | udah
+| 19 | Syaraf Terjepit dan Mitos Fakta Pembedahan Tulang Belakang — mitos: semua saraf kejepit harus operasi | Kemenkes Yankes | https://yankes.kemkes.go.id/read/83/talkshow-kesehatan-syaraf-terjepit-dan-mitos-fakta-pembedahan-tulang-belakang-di-radio-candi-sewu-klaten | gabisa dibuka
+| 20 | 8 Mitos Minuman Beralkohol yang Ternyata Salah — mitos: alkohol dalam jumlah sedikit tidak berbahaya | Hello Sehat | https://hellosehat.com/nutrisi/fakta-gizi/mitos-tentang-minuman-beralkohol/ | udah
 
 ---
 
