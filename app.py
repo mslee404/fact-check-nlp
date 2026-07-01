@@ -1,27 +1,38 @@
 import streamlit as st
 # Import fungsi retrieval dari file backend yang udah kamu bikin kemarin
 from rag_backend import retrieve_context
+from groq import Groq
+import os
 
 # =====================================================================
 # [TUGAS HUSNA] - INTEGRASI LLM GROQ & PROMPT ENGINEERING
 # =====================================================================
+
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+
 def generate_llm_answer(query, context):
-    """
-    Fungsi ini sementara menggunakan placeholder.
-    Nanti Husna tinggal mengisi logika Groq API + Llama 3.1 di sini.
-    """
-    # TODO: Husna masukkan kodingan Groq client & Prompt Template di sini
-    
-    # Contoh format output dummy biar aplikasi bisa ditesting dulu:
-    dummy_response = f"""
-    ### 🚨 HASIL ANALISIS: [MITOS / FAKTA]
-    
-    Ini adalah teks jawaban analisis medis dari Llama 3.1 berdasarkan konteks yang dikirim oleh sistem RAG Salsa.
-    
-    **Konteks Pendukung yang Ditemukan:**
-    {context[:200]}... (dan seterusnya)
-    """
-    return dummy_response
+    prompt = f"""Kamu adalah sistem fact-checker kesehatan berbahasa Indonesia.
+Berdasarkan konteks dari sumber terpercaya berikut, tentukan apakah klaim berikut adalah MITOS atau FAKTA.
+
+Konteks:
+{context}
+
+Klaim yang diperiksa:
+{query}
+
+Jawab dengan format:
+- Verdict: MITOS / FAKTA
+- Penjelasan: (berdasarkan konteks di atas)
+- Sumber: (sebutkan dari konteks mana)
+"""
+
+    response = client.chat.completions.create(
+        model="llama-3.1-8b-instant",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.2,  # rendah biar jawabannya konsisten & tidak kreatif
+    )
+
+    return response.choices[0].message.content
 
 
 # =====================================================================
