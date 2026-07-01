@@ -1,0 +1,70 @@
+{
+    "knowledge_base": [
+        {
+            "id": "doc_001",
+            "content": "anggapan bahwa susu adalah produk yang kaya manfaat sebetulnya hanya keberhasilan mereka dalam membuat iklan sehingga membuat masyarakat luas percaya. Departemen Pertanian AS sempat menyarankan bahwa orang dewasa wajib minum tiga cangkir susu sehari untuk memenuhi kebutuhan kalsium dan vitamin D. Namun, beberapa penelitian menunjukkan bahwa tidak ada hubungan antara minum lebih banyak susu atau suplemen kalsium dan vitamin D dengan berkurangnya risiko patah tulang.",
+            "source":"Halodoc",
+            "url": "https://www.halodoc.com/artikel/mitos-kesehatan-yang-keliru-tetapi-dipercaya-bagian-1",
+            "label": "mitos",
+            "mitos_text": "susu adalah produk yang kaya manfaat",
+            "keywords": ["susu", "manfaat", "kalsium", "vitamin D", "patah tulang"]
+        },
+        {
+            "id": "doc_002",
+            "content": "Kenyataannya makanan organik tidak sepenuhnya bebas dari pestisida dan mereka tidak selalu lebih baik untuk kesehatanmu. Petani yang menanam produk organik diizinkan menggunakan bahan kimia yang berasal dari alam. Pada beberapa kasus justru mereka lebih buruk bagi lingkungan daripada jenis pestisida sintetis. Makanan organik tidak selamanya memiliki nilai gizi yang lebih tinggi dibandingkan makanan non-organik.",
+            "source":"Halodoc",
+            "url": "https://www.halodoc.com/artikel/mitos-kesehatan-yang-keliru-tetapi-dipercaya-bagian-1",
+            "label": "mitos",
+            "mitos_text": "makanan organik terjamin bebas pestisida dan lebih bergizi",
+            "keywords": ["makanan organik", "pestisida", "kesehatan", "nilai gizi"]
+        },
+        {
+            "id": "doc_003",
+            "content": "Aturan lima detik bukan hal yang benar karena bakteri dapat mencemari makanan dalam milidetik. Berdasarkan Tes Mythbusting, makanan lembap juga menarik lebih banyak bakteri daripada makanan kering, tetapi terbukti bahwa tidak pernah ada durasi aman. Sebaliknya, keamanan tergantung pada seberapa bersih permukaan tempat kamu menjatuhkan makanan.",
+            "source":"Halodoc",
+            "url": "https://www.halodoc.com/artikel/mitos-kesehatan-yang-keliru-tetapi-dipercaya-bagian-1",
+            "label": "mitos",
+            "mitos_text": "makanan yang jatuh ke lantai kurang dari 5 detik masih aman dikonsumsi",
+            "keywords": ["lima detik", "bakteri", "makanan", "keamanan"]
+        },
+        {
+            "id": "doc_004",
+            "content": "Dalam sebuah penelitian selama satu bulan, para ilmuwan memberi makan lusinan permen yang mengandung 10 kali jumlah cokelat biasa, dan lusinan batang cokelat palsu lainnya. Ketika mereka menghitung jerawat sebelum dan setelah mengonsumsi cokelat, nyatanya tidak ada 'perbedaan' antara kedua kelompok. Baik cokelat maupun lemak tidak berpengaruh pada jerawat. Terpenting adalah selalu menjaga kebersihan wajah.",
+            "source":"Halodoc",
+            "url":"https://www.halodoc.com/artikel/mitos-kesehatan-yang-keliru-tetapi-dipercaya-bagian-1",
+            "label": "mitos",
+            "mitos_text": "cokelat menyebabkan jerawat",
+            "keywords": ["cokelat", "jerawat", "kebersihan wajah"]
+        },
+        {
+            "id": "doc_005",
+            "content": "Apel dikemas dengan vitamin C dan serat, keduanya penting untuk kesehatan jangka panjang, tetapi nutrisi ini tidak selamanya kamu butuhkan. Saat virus atau bakteri tertentu menyerang tubuhmu, sebuah apel sayangnya tidak melakukan apa pun untuk melindungi kamu atau tidak juga memperkuat sistem imun tubuhmu.",
+            "source":"Halodoc",
+            "url":"https://www.halodoc.com/artikel/mitos-kesehatan-yang-keliru-tetapi-dipercaya-bagian-1",
+            "label": "mitos",
+            "mitos_text": "makan apel setiap hari dapat menjaga kesehatan tubuh",
+            "keywords": ["apel", "vitamin C", "serat", "kesehatan", "sistem imun"]
+        },
+        {
+            "id": "doc_006",
+            "content": "Sebagian besar penelitian tidak menemukan korelasi antara konsumsi kafein dan pertumbuhan tulang pada anak-anak. Sementara pada orang dewasa, para peneliti telah melihat bahwa peningkatan konsumsi kafein memang sedikit membatasi penyerapan kalsium, tetapi dampaknya sangat kecil. Sehingga satu sendok makan susu akan lebih dari cukup mengimbangi efek dari secangkir kopi.",
+            "source":"Halodoc",
+            "url":"https://www.halodoc.com/artikel/mitos-kesehatan-yang-keliru-tetapi-dipercaya-bagian-1",
+            "label": "mitos",
+            "mitos_text": "kopi menghambat pertumbuhan",
+            "keywords": ["kafein", "pertumbuhan tulang", "anak-anak", "kalsium", "penyerapan"]
+        },
+        {
+            "id": "doc_007",
+            "content": "Makanan organik tidak bebas dari pestisida dan itu tidak selalu lebih baik untuk kamu. Petani yang menanam produk organik diizinkan menggunakan bahan kimia yang berasal dari alam, bahkan dalam beberapa kasus justru lebih buruk bagi lingkungan daripada rekan-rekan sintesis mereka. Hanya saja tingkat pestisida pada makanan organik dan non-organik sangat rendah, sehingga mereka tidak perlu dikonsumsi. Mengonsumsi makanan organik juga tidak memiliki manfaat nutrisi dibandingkan makanan non-organik. ",
+            "source":"Halodoc",
+            "url": "https://www.halodoc.com/artikel/inilah-mitos-kesehatan-yang-keliru-tetapi-dipercaya-bagian-2-1",
+            "label": "mitos",
+            "mitos_text": "makanan organik terjamin bebas pestisida dan lebih bergizi",
+            "keywords": ["makanan organik", "pestisida", "kesehatan", "nilai gizi"]
+        },
+        {
+            "id":"doc_008"
+        }
+    ]
+}
