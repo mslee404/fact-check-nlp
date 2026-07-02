@@ -1,0 +1,144 @@
+{
+    "test_set": [
+        {
+            "id": 1,
+            "query": "Apa aman mengambil makanan yang jatuh sebelum 5 detik?",
+            "ground_truth_verdict": "Mitos",
+            "ground_truth_answer":"Aturan lima detik bukan hal yang benar karena bakteri dapat mencemari makanan dalam milidetik. Keamanan tergantung pada seberapa bersih permukaan tempat kamu menjatuhkan makanan. Makanan lembap menarik lebih banyak bakteri daripada makanan kering.",
+            "relevant_docs": "doc_003"
+        },
+        {
+            "id": 2,
+            "query": "Apakah kafein menghambat pertumbuhan tulang?",
+            "ground_truth_verdict": "Mitos",
+            "ground_truth_answer": "Sebagian besar penelitian tidak menemukan korelasi antara konsumsi kafein dan pertumbuhan tulang pada anak-anak. Sementara pada orang dewasa, para peneliti telah melihat bahwa peningkatan konsumsi kafein memang sedikit membatasi penyerapan kalsium, tetapi dampaknya sangat kecil. Sehingga satu sendok makan susu akan lebih dari cukup mengimbangi efek dari secangkir kopi.",
+            "relevant_docs": "doc_006"
+        },
+        {
+            "id": 3,
+            "query": "Apakah tidur siang bisa meninggikan badan?",
+            "ground_truth_verdict":"Fakta",
+            "ground_truth_answer": "Pernyataan tersebut fakta, tetapi terdapat beberapa catatan. Growth hormon akan meningkat paling banyak saat seseorang tidur (bukan hanya tidur siang). Oleh karena itu, diharapkan kecukupan istirahat saat masa tumbuh kembang akan membantu tumbuh kembang optimal termasuk dalam hal penambahan tinggi badan tersebut. Meski begitu, kecukupan gizi serta genetik turut berperan dalam pertumbuhan tinggi badan. Di samping itu, tinggi badan umumnya akan berhenti tumbuh di satu titik, yaitu saat lempeng epifise sudah berhenti tumbuh. Biasanya, kondisi tersebut terjadi saat usia remaja. Jadi, kecukupan istirahat saat tumbuh kembang dapat membantu menambah tinggi badan.Pernyataan tersebut fakta, tetapi terdapat beberapa catatan. Growth hormon akan meningkat paling banyak saat seseorang tidur (bukan hanya tidur siang). Oleh karena itu, diharapkan kecukupan istirahat saat masa tumbuh kembang akan membantu tumbuh kembang optimal termasuk dalam hal penambahan tinggi badan tersebut. Meski begitu, kecukupan gizi serta genetik turut berperan dalam pertumbuhan tinggi badan. Di samping itu, tinggi badan umumnya akan berhenti tumbuh di satu titik, yaitu saat lempeng epifise sudah berhenti tumbuh. Biasanya, kondisi tersebut terjadi saat usia remaja. Jadi, kecukupan istirahat saat tumbuh kembang dapat membantu menambah tinggi badan.",
+            "relevant_docs": "doc_016"
+        },
+        {
+            "id": 4,
+            "query": "Apakah makan malam membuat berat badan naik?",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer":"Tidak ada bukti yang menyatakan kalau makan malam dapat meningkatkan berat badan. Namun, kalau ingin makan di malam hari, batasi jumlahnya dan hindari makanan yang tinggi kalori. Hal ini guna mengurangi risiko terjadinya gangguan pencernaan dan nyeri ulu hati.",
+            "relevant_docs":"doc_021"
+        },
+        {
+            "id": 5,
+            "query": "Apakah nasi bikin berat badan naik?",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer":"Nasi sebenarnya sama dengan karbohidrat lainnya, seperti roti, mi, atau pasta. Jadi, sebenarnya bukan nasi yang menyebabkan badan Anda menjadi gemuk. Gemuk pada dasarnya disebabkan oleh jumlah kalori (antara yang masuk dan yang keluar) tidak seimbang dalam tubuh. Artinya, jika memang Anda terlalu banyak makan nasi ditambah dengan konsumsi mi, makanan bertepung, kue, atau makanan manis, tentu kalori dalam tubuh akan menumpuk dan menyebabkan Anda menjadi gemuk.",
+            "relevant_docs":"doc_029"
+        },
+        {
+            "id": 6,
+            "query":"Telur membuat kolesterol naik",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer":"Satu buah kuning telur dapat mengandung hingga 186 mg kolesterol, sementara batas konsumsi kolesterol harian yang dianjurkan adalah 300 mg. Konsumsi dua buah telur saja sudah melebihi batas anjuran, belum lagi kolesterol yang kita dapat dari makanan lain. Meskipun telur termasuk tinggi kolesterol, sebenarnya lemak jenuh lebih berperan terhadap peningkatan kadar kolesterol dalam tubuh Anda. Lemak jenuh biasa terdapat dalam daging, mentega, dan susu beserta olahannya. Kadar lemak jenuh dalam telur hanya sebesar 1,6 gram, relatif kecil jika dibandingkan dengan kadar lemak jenuh dalam daging sapi.",
+            "relevant_docs":"doc_033"
+        },
+        {
+            "id": 7,
+            "query":"Telur menyebabkan bisul",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer":"Telur memang bukan penyebab munculnya bisul, tetapi sebagian orang memang bisa mengalami alergi telur. Nah, ketika hal ini terjadi, orang yang mengalami alergi terhadap telur bisa mengalami masalah kulit, seperti gatal-gatal, bentol-bentol, dan muncul ruam di kulit. Ketika reaksi alergi tersebut muncul, mereka mungkin akan sering menggaruk kulitnya. Kulit yang gatal dan digaruk berlebihan ini bisa saja terluka dan mengalami infeksi, sehingga muncul bisul.",
+            "relevant_docs":"doc_037"
+        },
+        {
+            "id": 8,
+            "query":"Apakah air rebusan mie instan mengandung lilin?",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer":"mi instan mengandung lilin hanyalah mitos. Jadi, aman bagi Anda menggunakan air rebusan mi instan sebagai kuah.",
+            "relevant_docs":"doc_044"
+        },
+        {
+            "id": 9,
+            "query": "Radiasi ponsel menyebabkan kanker",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer":"Kanker terjadi ketika sel tubuh mengalami perubahan sifat genetik atau mutasi gen akibat berbagai faktor, salah satunya paparan radiasi. Namun, telepon genggam sebenarnya hanya memancarkan radiasi yang sangat rendah sehingga tidak sampai menyebabkan mutasi gen pada sel-sel tubuh. Hingga saat ini, belum ada penelitian yang bisa membuktikan bahwa radiasi telepon genggam dapat menyebabkan kanker.",
+            "relevant_docs":"doc_046"
+        },
+        {
+            "id": 10,
+            "query": "paparan sel kanker dengan udara saat operasi membuat kanker semakin parah",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer":"Faktanya, paparan udara tidak ada hubungannya dengan penyebaran kanker. Operasi sendiri merupakah salah satu cara yang paling efektif untuk menghilangkan jaringan kanker. Terkadang, kanker yang tidak tampak di pemeriksaan fisik atau penunjang, seperti CT scan dan MRI, juga baru terlihat jelas saat dilakukan pembedahan.",
+            "relevant_docs":"doc_052"
+        },
+        {
+            "id": 11,
+            "query": "Apakah permen karet yang tertelan akan di perut selamanya?",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer":"Tubuh memang tidak bisa mencerna permen karet, tetapi permen karet yang tertelan tidak akan tertinggal selamanya dalam perut. Gerak usus Anda akan menggerakkan permen karet menuju anus dan mengeluarkannya lewat feses.",
+            "relevant_docs":"doc_055"
+        },
+        {
+            "id": 12,
+            "query": "Hernia disebabkan mengangkat beban berat",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer":"sebagian besar hernia muncul akibat kelemahan otot yang terjadi jauh sebelum gejala hernia seperti benjolan muncul. Beberapa faktor lain yang dapat melemahkan otot yakni pertambahan usia, cedera, dan sayatan bedah. Mengangkat benda-benda berat bukanlah penyebab hernia, melainkan faktor yang dapat memperparah hernia yang sudah ada.",
+            "relevant_docs":"doc_060"
+        },
+        {
+            "id": 13,
+            "query": "Apa sayuran mentah lebih sehat?",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer":"Tidak semua orang dapat makan sayuran mentah, terutama mereka yang memiliki penyakit pada saluran pencernaan. Sayuran mentah dapat memicu produksi gas penyebab perut kembung. Selain itu, usus lebih mudah mencerna dan menyerap zat gizi dari sayuran yang sudah matang. Jadi, lebih baik Anda memasak sayuran sebelum mengonsumsinya.",
+            "relevant_docs":"doc_063"
+        },
+        {
+            "id": 14,
+            "query": "TBC penyakit masyarakat miskin",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer": "Penyakit TBC bisa menyerang siapa pun yang terinfeksi oleh bakteri tuberkulosis. Data terbaru dari TB Indonesia menunjukan bahwa kasus TBC yang terlapor berjumlah 110.881 kasus pada anak di bawah 15 tahun atau sekitar 15,3% dari seluruh jumlah kasus TBC. Tidak ada perbedaan jumlah kasus yang besar antara kelompok ekonomi terbawah sampai dengan menengah atas.",
+            "relevant_docs": "doc_066"
+        },
+        {
+            "id": 15,
+            "query": "TBC hanya menyerang paru-paru",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer":"Setelah masuk ke dalam tubuh, bakteri TB memang akan mengendap di paru-paru. Di sanalah awal mula bakteri akan berkembang biak dan merusak sel. Namun, jika tidak diobati dengan baik, bakteri dapat menyebar ke bagian tubuh lainnya lewat aliran darah atau saluran limfatik, lantas menginfeksi organ dan bagian tubuh lain. Kondisi ini disebut juga dengan TB ekstra paru. Jenis TB ekstra paru yang umum terjadi adalah TB tulang, TB kelenjar getah bening, dan TB usus. Selain itu, TBC juga bisa menyerang jantung, sistem saraf, dan organ lainnya.",
+            "relevant_docs":"doc_067"
+        },
+        {
+            "id": 16,
+            "query": "gula bikin sakit gigi",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer": "Konsumsi gula memang merupakan salah satu faktor penyebab kerusakan dan sakit gigi. Namun, jika Anda dapat membersihkannya dengan baik, gigi Anda akan tetap sehat. Saat gula menempel pada gigi dalam waktu yang lama, bakteri mulut akan mengubahnya menjadi asam. Asam yang berlebihan nantinya akan menimbulkan kerusakan dan membuat gigi nyeri. Selain gula, makanan tinggi asam dan bertekstur lengket juga bisa menyebabkan sakit gigi. Meski begitu, masalah tersebut bisa dihindari apabila kebersihan gigi terjaga dengan baik.",
+            "relevant_docs":"doc_071"
+        },
+        {
+            "id": 17,
+            "query": "merokok tidak mempengaruhi gigi",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer":"Beberapa orang menilai bahwa merokok tidak berbahaya untuk gigi. Aktivitas ini dipercaya hanya akan mengubah warna gigi perokok menjadi lebih kekuningan. Faktanya, merokok dapat membuat mulut menjadi kering. Ketika mulut kering, aktivtias bakteri dalam mulut akan semakin meningkat. Akibatnya, kerusakan gigi tidak dapat dihindari. Jika diteruskan, merokok tidak hanya mengakibatkan kerusakan. Gigi copot pun menjadi kondisi yang tak terhindarkan.",
+            "relevant_docs":"docs_047"
+        },
+        {
+            "id": 18,
+            "query": "Tidak perlu pakai tabir surya saat udara dingin",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer": "Meski cuaca sedang berawan, radiasi sinar UV dari matahari tetap mencapai permukaan bumi. Anda disarankan untuk selalu mengoleskan tabir surya setiap hari. Ulangi pemakaian 2 jam sekali, terutama setelah berenang dan berkeringat. Jadi, tetap gunakan tabir surya meski Anda memakai make up yang mengandung SPF agar kesehatan kulit selalu terjaga.",
+            "relevant_docs":"doc_076"
+        },
+        {
+            "id": 19,
+            "query": "Sering eksfoliasi agar kulit lebih sehat",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer":"Eksfoliasi kulit bertujuan untuk mengangkat sel kulit mati agar kulit tampak lebih cerah sekaligus meningkatkan penyerapan produk skincare. Namun, jika dilakukan secara berlebihan, eksfoliasi justru bisa membuat kulit iritasi, warna kulit tidak rata, dan kulit wajah bertekstur.",
+            "relevant_docs": "doc_079"
+        },
+        {
+            "id": 20,
+            "query": "Alkohol meredakan stres",
+            "ground_truth_verdict":"Mitos",
+            "ground_truth_answer":"Banyak orang merasa bahwa alkohol menghilangkan stres dan depresi. Efek ini terjadi karena beberapa pergerakan sinyal melambat di sistem saraf saat minum alkohol. Namun, efek ini cenderung berkurang dalam penggunaan alkohol jangka panjang. Seiring waktu, penggunaan alkohol yang berlebihan justru cenderung meningkatkan stres, depresi, dan kecemasan. Penggunaan alkohol memaksa tubuh untuk terus-menerus menekan stres. Cobalah melakukan manajemen stres jenis lainnya, misalnya berolahraga, bermeditasi, mendengarkan musik, istirahat dengan cukup, dan berbicara dengan psikolog.",
+            "relevant_docs":"doc_082"
+        }
+    ]
+}
